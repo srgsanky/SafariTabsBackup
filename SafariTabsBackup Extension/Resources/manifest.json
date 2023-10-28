@@ -35,5 +35,6 @@
         }
     },
 
-    "permissions": [ ]
+    "permissions": ["tabs", "tabGroups"],
+    "host_permissions": ["<all_urls>"]
 }
